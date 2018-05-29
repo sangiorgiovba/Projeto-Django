@@ -1,2 +1,2 @@
 # Projeto-Django
-este e o codigo fonte o sistema musica em django
+este e o codigo fonte do sistema musica em django
